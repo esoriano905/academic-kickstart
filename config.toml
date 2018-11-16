@@ -52,7 +52,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Emily C. Soriano"
-  role = "Doctoral Student in Clinical Science"
+  role = "Doctoral Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,11 +62,11 @@ enableGitInfo = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "esoriano@psych.udel.edu"
+  address = "108 Wolf Hall, 105 The Green, Department of Psychological & Brain Sciences, University of Delaware, Newark, DE, 19716, USA"
+  office_hours = ""
+  phone = "302 831 8188"
+  skype = "emilycsoriano"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -103,7 +103,7 @@ enableGitInfo = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
