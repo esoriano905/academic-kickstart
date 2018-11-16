@@ -40,6 +40,6 @@ weight = 5
  
 +++
 
-# About Me
+# About
 
 Emily C. Soriano is a fifth year doctoral student in the Clinical Science program at the University of Delaware. 
