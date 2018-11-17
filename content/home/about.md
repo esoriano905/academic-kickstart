@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Clinical Science"
   institution = "University of Delaware"
-  year = 2021 (expected)
+  year = 2021 
 
 [[education.courses]]
   course = "MA in Clinical Science"
@@ -40,6 +40,7 @@ weight = 5
  
 +++
 
-# About.
+# Biography  
 
 Emily C. Soriano is a fifth year doctoral student in the Clinical Science program at the University of Delaware. 
+  
